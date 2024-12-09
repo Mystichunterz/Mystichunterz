@@ -13,7 +13,7 @@
   
 ### 🎨 Hobbies
 
-- I'm currently studying German 🇩🇪 and High Valyrian 🐉
+- I'm currently studying German 🇩🇪  and High Valyrian 🐉
 - Casually learning the Piano 🎹
 - In my current DnD campaign, I play as Sariel Hewlett, a half-elf Paladin 🗡️
 
