@@ -10,12 +10,12 @@
 - Won 3rd place in OpenAI's inaugural hackathon in the Asia-Pacific region, developing a nurse chatbot using OpenAI's GPT Models, aimed at assisting elderly medical patients by reminding them to take their medication.
 - Developed a VR Simulator for Level 3 Bio-safety Laboratories for medical students to practice essential safety procedures. This project was featured at NTU Lee Kong Chian School of Medicine's Art & Science of Medicine Festival 2024.
 - I'm currently engaged in the creation of a simulated Electronic Medical Records System, designed to train medical students in effectively navigating and utilizing the system.
-
+- 
 ### 🎨 Hobbies
 
 - I'm currently studying German 🇩🇪 and High Valyrian 🐉
-- I'm casually learning the Piano 🎹
-- In my current DnD Campaign, I'm a half-elf Paladin named Sariel Hewlett 🗡️
+- Casually learning the Piano 🎹
+- In my current DnD campaign, I play as Sariel Hewlett, a half-elf Paladin 🗡️
 
 ### 💻 Languages
 
