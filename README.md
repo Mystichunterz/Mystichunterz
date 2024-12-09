@@ -4,7 +4,7 @@
 🎮 I also have a specialization in Virtual Simulation (VR Development) with Unity 3D!<br>
 📫 Feel free to reach out to me at cl_calvinlai@protonmail.com!<br>
 
-### 💻 Coding Achievements
+### 🏆 Coding Achievements
 
 - Won 3rd place in OpenAI's inaugural hackathon in the Asia-Pacific region, developing a nurse chatbot using OpenAI's GPT Models, aimed at assisting elderly medical patients by reminding them to take their medication.
 - Developed a VR Simulator for Level 3 Bio-safety Laboratories for medical students to practice essential safety procedures. This project was featured at NTU Lee Kong Chian School of Medicine's Art & Science of Medicine Festival 2024.
