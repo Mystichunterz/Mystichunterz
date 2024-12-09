@@ -49,3 +49,7 @@
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-%234EA94B.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-%234EA94B.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/research/whisper)
 [![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-%230072C6.svg?style=for-the-badge&logo=openai&logoColor=white)](https://azure.microsoft.com/)
+
+### 📦 Others
+
+[![Discord Developer API](https://img.shields.io/badge/Discord_Developer_API-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/intro)
