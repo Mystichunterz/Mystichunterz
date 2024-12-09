@@ -37,7 +37,7 @@
 [![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-%23232F3E.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)](https://docs.aws.amazon.com/cloudwatch/)
 [![Azure Speech Service](https://img.shields.io/badge/Azure_Speech_Service-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
-### Generative AI
+### 🤖 Generative AI
 
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-%234EA94B.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-%230072C6.svg?style=for-the-badge&logo=openai&logoColor=white)](https://azure.microsoft.com/)
