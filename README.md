@@ -37,6 +37,17 @@
 [![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-%23232F3E.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)](https://docs.aws.amazon.com/cloudwatch/)
 [![Azure Speech Service](https://img.shields.io/badge/Azure_Speech_Service-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
+### 🎮 Virtual Reality & Game Development
+
+[![Unity 3D](https://img.shields.io/badge/Unity_3D-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Oculus](https://img.shields.io/badge/Oculus-%23000000.svg?style=for-the-badge&logo=oculus&logoColor=white)](https://www.oculus.com/)
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+
+### ⚙️ Software Development
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
+
 ### 🤖 Generative AI
 
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-%234EA94B.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
