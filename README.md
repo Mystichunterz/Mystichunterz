@@ -16,6 +16,7 @@
 - I'm currently studying German 🇩🇪  and High Valyrian 🐉
 - Casually learning the Piano 🎹
 - In my current DnD campaign, I play as Sariel Hewlett, a half-elf Paladin 🗡️
+- I develop Discord Bots for Sumeru Akademiya, a discord community with 6.5k members 📟
 
 ### 💻 Languages
 
