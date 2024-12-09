@@ -11,6 +11,10 @@
 - Developed a VR Simulator for Level 3 Bio-safety Laboratories for medical students to practice essential safety procedures. This project was featured at NTU Lee Kong Chian School of Medicine's Art & Science of Medicine Festival 2024.
 - I'm currently engaged in the creation of a simulated Electronic Medical Records System, designed to train medical students in effectively navigating and utilizing the system.
 
+### 🎨 Hobbies
+
+- I'm currently studying German 🇩🇪 and High Valyrian 🐉
+
 ### 💻 Languages
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
