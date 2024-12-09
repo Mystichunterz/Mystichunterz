@@ -43,12 +43,8 @@
 [![Oculus](https://img.shields.io/badge/Oculus-%23000000.svg?style=for-the-badge&logo=oculus&logoColor=white)](https://www.oculus.com/)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 
-### ⚙️ Software Development
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
-
 ### 🤖 Generative AI
 
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-%234EA94B.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-%234EA94B.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/research/whisper)
 [![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-%230072C6.svg?style=for-the-badge&logo=openai&logoColor=white)](https://azure.microsoft.com/)
