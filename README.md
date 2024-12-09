@@ -1,7 +1,7 @@
 <h2 align="center">🌟 Rytsas! I'm Calvin, a Year 3 Information Technology student! 👋</h2>
 
 🚀 I'm currently learning full-stack development, with a focus on cloud computing!<br>
-🎮 I also have a specialization in Virtual Simulation (VR Development) with Unity 3D!<br>
+🎮 I also have a specialization in Virtual Simulation (VR Development) with Unity 3D<br>
 🌱 I’m currently learning about implementations of Generative AI<br>
 📫 Feel free to reach out to me at cl_calvinlai@protonmail.com!<br>
 
