@@ -14,6 +14,7 @@
 ### 🎨 Hobbies
 
 - I'm currently studying German 🇩🇪 and High Valyrian 🐉
+- I'm casually learning the Piano 🎹
 
 ### 💻 Languages
 
