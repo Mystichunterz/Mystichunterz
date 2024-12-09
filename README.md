@@ -15,6 +15,7 @@
 
 - I'm currently studying German 🇩🇪 and High Valyrian 🐉
 - I'm casually learning the Piano 🎹
+- In my current DnD Campaign, I'm a half-elf Paladin named Sariel Hewlett 🗡️
 
 ### 💻 Languages
 
